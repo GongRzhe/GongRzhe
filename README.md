@@ -34,10 +34,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>A Model Context Protocol server for Gmail integration with auto authentication support. Enables AI assistants to manage Gmail through natural language interactions.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-103-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/GongRzhe/JSON-MCP-Server">
@@ -45,10 +45,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>JSON handling and processing MCP server that enables AI assistants to parse, validate, transform, and manipulate JSON data through natural language commands.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-21-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
   </tr>
   <tr>
@@ -58,10 +58,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>A travel planning MCP server that helps AI assistants create detailed itineraries, find destinations, and manage travel details through natural language interactions.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-20-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
     <td align="center">
       <a href="https://github.com/modelcontextprotocol/servers/tree/main/src/redis">
@@ -69,10 +69,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>An MCP server implementation for interacting with Redis databases. Enables LLMs to interact with Redis databases through a standardized interface. Contributed to the official Model Context Protocol repository.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-16-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
   </tr>
   <tr>
@@ -82,10 +82,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>An MCP server for creating, reading, and manipulating Microsoft Word documents. Enables AI assistants to work with Word documents through a standardized interface.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-11-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
     <td align="center">
       <a href="https://github.com/GongRzhe/terminal-controller-mcp">
@@ -93,10 +93,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>A Model Context Protocol server that enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-11-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
   </tr>
   <tr>
@@ -106,10 +106,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>This MCP server provides image generation capabilities using the Replicate Flux model, allowing AI assistants to create images from text descriptions.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-11-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
     <td align="center">
       <a href="https://github.com/GongRzhe/Open-MCP-Client">
@@ -117,10 +117,10 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
       </a>
       <br />
       <p>ChatMCP is a powerful command-line chat interface that connects to multiple LLM providers (OpenAI, Anthropic, Groq, etc.) and extends their capabilities with tools using the Model Context Protocol.</p>
-      <p>
+      <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/%E2%AD%90-6-yellow?style=flat-square" alt="Stars"/>
-      </p>
+      </div>
     </td>
   </tr>
 </table>

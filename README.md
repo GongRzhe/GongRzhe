@@ -7,9 +7,6 @@
 <div align="center">
   <h1>GongRzhe</h1>
   <p><i>Technology Leader of Digital Twins Team | MCP Developer | AI Enthusiast</i></p>
-  
-  [![GitHub followers](https://img.shields.io/github/followers/GongRzhe?style=social)](https://github.com/GongRzhe)
-  [![Stars](https://img.shields.io/github/stars/GongRzhe?style=social)](https://github.com/GongRzhe)
 </div>
 
 ## 🌟 About Me

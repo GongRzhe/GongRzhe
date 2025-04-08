@@ -40,8 +40,8 @@ I'm building an ecosystem of MCP servers that allow Large Language Models (LLMs)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GongRzhe&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GongRzhe&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GongRzhe&show_icons=true&theme=dark" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GongRzhe&layout=compact&theme=dark" alt="Top Languages" height="192"/>
 </div>
 
 ## 🔭 I'm currently working on

@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>GongRzhe</h1>
-  <p><i>Technology Leader of Digital Twins Team | MCP Developer | AI Enthusiast</i></p>
+  <p><i>Technology Leader of A Digital Twins Team | MCP Server Developer | AI Enthusiast</i></p>
 </div>
 
 ## 🌟 About Me
